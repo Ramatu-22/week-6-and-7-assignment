@@ -1,5 +1,6 @@
 # week-6-and-7-assignment
-Zuri's assignment on carousel
+
+https://ramatu-22.github.io/week-6-and-7-assignment/
 This project is on carousel
 
 
